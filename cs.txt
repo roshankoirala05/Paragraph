@@ -1,0 +1,3 @@
+Computer Science is the study of algorithms, including their formal
+and mathematical properties, their hardware realizations, their
+linguistic realizations, and their applications. end_of_data
